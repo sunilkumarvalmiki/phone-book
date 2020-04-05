@@ -2,11 +2,11 @@
 it's a (CRUD) phonebook application created using tkinter in python
 
 Function : 
-# Add records
-# delete records
-# update records
-# serach records
-# view records
+1) Add records
+2) delete records
+3) update records
+4) serach records
+5) view records
 
 index.exe : download and run it as standalone application
 
